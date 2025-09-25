@@ -1,1 +1,2 @@
-# This file intentionally blank
+UNICODE_ENABLE = yes
+DISABLE_WARNINGS = yes
